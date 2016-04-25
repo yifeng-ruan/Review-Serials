@@ -1,0 +1,5 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\bin\Debug\MVCReviewDatabase.dacpac
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\bin\Debug\MVCReviewDatabase.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\bin\Debug\MVCReviewDatabase.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\obj\Debug\MVCReviewDatabase.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\obj\Debug\MVCReviewDatabase.pdb

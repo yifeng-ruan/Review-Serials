@@ -1,0 +1,51 @@
+﻿@model MVCReview.ViewModels.AccountPostViewModel
+@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Login</title>
+
+</head>
+
+<body>
+
+    <div>
+        @Html.ValidationMessage("AddError", new {style="color:red;" })
+        @using (Html.BeginForm("DoLogin", "Authentication", FormMethod.Post))
+
+        {
+
+            @Html.LabelFor(c=>c.Name)
+
+            @Html.TextBoxFor(x=>x.Name)
+
+           
+
+            <br />
+
+            @Html.LabelFor(c => c.Pwd)
+
+            @Html.PasswordFor(x => x.Pwd)
+
+            <br />
+
+
+            <input type="submit" name="BtnSubmit" value="Login" />
+
+        }
+
+    </div>
+
+</body>
+
+</html>

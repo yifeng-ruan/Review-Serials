@@ -1,0 +1,9 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\Model.dll.config
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\Model.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\EntityFramework.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\EntityFramework.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\obj\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Model\obj\Debug\Model.pdb

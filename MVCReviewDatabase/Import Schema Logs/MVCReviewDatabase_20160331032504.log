@@ -1,0 +1,71 @@
+3/31/2016 11:25:04 AM	This log contains information about the import schema operation into project 'MVCReviewDatabase' on computer 'RUANR-7W1' by user 'ruanR'.
+3/31/2016 11:25:04 AM	Import of database schema has started.
+3/31/2016 11:25:09 AM	Gathering database options
+3/31/2016 11:25:09 AM	Gathering users
+3/31/2016 11:25:09 AM	Gathering roles
+3/31/2016 11:25:09 AM	Gathering application roles
+3/31/2016 11:25:09 AM	Gathering role memberships
+3/31/2016 11:25:09 AM	Gathering filegroups
+3/31/2016 11:25:09 AM	Gathering full-text catalogs
+3/31/2016 11:25:09 AM	Gathering assemblies
+3/31/2016 11:25:09 AM	Gathering certificates
+3/31/2016 11:25:09 AM	Gathering asymmetric keys
+3/31/2016 11:25:09 AM	Gathering symmetric keys
+3/31/2016 11:25:09 AM	Gathering encrypted symmetric keys
+3/31/2016 11:25:09 AM	Gathering schemas
+3/31/2016 11:25:09 AM	Gathering XML schema collections
+3/31/2016 11:25:09 AM	Gathering user-defined data types
+3/31/2016 11:25:09 AM	Gathering user-defined types
+3/31/2016 11:25:09 AM	Gathering table types
+3/31/2016 11:25:09 AM	Gathering unique keys for table types
+3/31/2016 11:25:09 AM	Gathering primary keys for table types
+3/31/2016 11:25:09 AM	Gathering check constraints for table types
+3/31/2016 11:25:09 AM	Gathering default constraints for table types
+3/31/2016 11:25:09 AM	Gathering partition functions
+3/31/2016 11:25:09 AM	Gathering partition schemes
+3/31/2016 11:25:09 AM	Gathering functions
+3/31/2016 11:25:09 AM	Gathering encrypted functions
+3/31/2016 11:25:09 AM	Gathering aggregates
+3/31/2016 11:25:09 AM	Gathering procedures
+3/31/2016 11:25:09 AM	Gathering encrypted procedures
+3/31/2016 11:25:09 AM	Gathering tables
+3/31/2016 11:25:09 AM	Gathering primary keys
+3/31/2016 11:25:09 AM	Gathering unique constraints
+3/31/2016 11:25:09 AM	Gathering foreign keys
+3/31/2016 11:25:09 AM	Gathering default constraints
+3/31/2016 11:25:09 AM	Gathering check constraints
+3/31/2016 11:25:09 AM	Gathering views
+3/31/2016 11:25:09 AM	Gathering encrypted views
+3/31/2016 11:25:09 AM	Gathering indexes
+3/31/2016 11:25:09 AM	Gathering statistics
+3/31/2016 11:25:09 AM	Gathering full-text index stoplists
+3/31/2016 11:25:09 AM	Gathering full-text indexes
+3/31/2016 11:25:09 AM	Gathering spatial indexes
+3/31/2016 11:25:09 AM	Gathering XML indexes
+3/31/2016 11:25:09 AM	Gathering encrypted triggers
+3/31/2016 11:25:09 AM	Gathering triggers
+3/31/2016 11:25:09 AM	Gathering encrypted and clr ddl triggers
+3/31/2016 11:25:09 AM	Gathering ddl triggers
+3/31/2016 11:25:09 AM	Gathering synonyms
+3/31/2016 11:25:09 AM	Gathering defaults
+3/31/2016 11:25:09 AM	Gathering data constraint uddt bindings
+3/31/2016 11:25:09 AM	Gathering rules
+3/31/2016 11:25:09 AM	Gathering data constraint uddt bindings
+3/31/2016 11:25:09 AM	Gathering message types
+3/31/2016 11:25:09 AM	Gathering queues
+3/31/2016 11:25:09 AM	Gathering contracts
+3/31/2016 11:25:09 AM	Gathering services
+3/31/2016 11:25:09 AM	Gathering event notifications
+3/31/2016 11:25:09 AM	Gathering remote service bindings
+3/31/2016 11:25:09 AM	Gathering broker priorities
+3/31/2016 11:25:09 AM	Gathering signatures
+3/31/2016 11:25:09 AM	Gathering data compression options
+3/31/2016 11:25:09 AM	Gathering extended properties
+3/31/2016 11:25:09 AM	Gathering credentials
+3/31/2016 11:25:09 AM	Gathering logins
+3/31/2016 11:25:09 AM	Gathering server audits
+3/31/2016 11:25:09 AM	Scanning project for duplicate elements
+3/31/2016 11:25:09 AM	Finished duplicate element processing
+3/31/2016 11:25:09 AM	Finished importing database.
+3/31/2016 11:25:09 AM	A summary of the import was saved to the following location: C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\MVCReviewDatabase\Import Schema Logs\MVCReviewDatabase_20160331032504.log
+3/31/2016 11:25:09 AM	Click Finish to continue...

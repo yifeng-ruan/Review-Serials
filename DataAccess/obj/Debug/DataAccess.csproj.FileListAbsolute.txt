@@ -1,0 +1,12 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\Model.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\DataAccess\obj\Debug\DataAccess.pdb

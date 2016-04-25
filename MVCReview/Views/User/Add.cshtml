@@ -1,0 +1,33 @@
+﻿@using MVCReview.ViewModels
+@model EmployeeViewModel
+@{
+    Layout = "~/Views/Shared/ReactView.cshtml";
+}
+
+@section TitleSection
+{
+    Ryan's Create
+}
+@section ContentBody
+{
+    <div>
+         <form action="/User/Save" method="post">
+             Name: <input type="text" id="TxtFName" name="Name" value=""/><br/>
+             @Html.ValidationMessage("Name")
+            Salary: <input type="text" id="TxtSalary" name="Salary" value="" /><br />
+            <input type="submit" name="BtnSubmit" value="Save Employee" />
+             <input type="button" onclick="ResetForm();" name="BtnReset" value="Reset"/>
+             <input type="submit" name="BtnSubmit" value="Cancel" />
+         </form>
+      </div>
+}
+@section HeaderSection
+{
+    <script>
+        function ResetForm() {
+            document.getElementById('TxtFName').value = "";
+            document.getElementById('TxtSalary').value = "";
+        }
+    </script>
+}
+

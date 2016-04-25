@@ -1,0 +1,5 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,15 @@
+﻿@using MVCReview.ViewModels
+@model FileUploadViewModel
+
+@section TitleSection{
+    Ryan's Upload
+}
+@section ContentBody{
+    <div> 
+    <a href="/User/Index">Back</a>
+        <form action="/Upload/Upload" method="post" enctype="multipart/form-data">
+            Select File : <input type="file" name="fileUpload" value="" />
+            <input type="submit" name="name" value="Upload" />
+        </form>
+    </div>
+}

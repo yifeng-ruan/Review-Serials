@@ -1,0 +1,5 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\IOC\bin\Debug\IOC.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\IOC\bin\Debug\IOC.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\IOC\obj\Debug\IOC.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\IOC\obj\Debug\IOC.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\IOC\obj\Debug\IOC.pdb

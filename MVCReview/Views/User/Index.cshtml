@@ -1,0 +1,29 @@
+﻿
+@using MVCReview.ViewModels
+@model EmployeeListViewModel
+@{
+    Layout = "~/Views/Shared/ReactView.cshtml";
+}
+@section TitleSection{
+    Ryan's View
+}
+@section ContentBody{       
+    <div>        
+        @{
+            Html.RenderAction("GetAddNewLink");
+        }
+        <table border="1">
+            <tr>
+                <th>Employee Name</th>
+                <th>Salary</th>
+            </tr>
+            @foreach (EmployeeViewModel item in Model.Employees)
+            {
+                <tr>
+                    <td>@item.Name</td>
+                    <td style="background-color:@item.SalaryColor">@item.Salary</td>
+                </tr>
+            }
+        </table>
+    </div>
+}

@@ -1,0 +1,11 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\Services.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\Services.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\DataAccess.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\EntityFramework.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\DataAccess.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\Model.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\bin\Debug\EntityFramework.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\obj\Debug\Services.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Services\obj\Debug\Services.pdb

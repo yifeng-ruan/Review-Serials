@@ -1,0 +1,7 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\bin\Debug\Account.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\bin\Debug\Account.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\bin\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\bin\Debug\Model.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\obj\Debug\AccountServices.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\obj\Debug\Account.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\Account\obj\Debug\Account.pdb

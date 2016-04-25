@@ -1,0 +1,14 @@
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\AppServices.dll.config
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\AppServices.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\AppServices.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\DataAccess.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\EntityFramework.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\Model.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\DataAccess.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\Model.pdb
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\EntityFramework.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\obj\Debug\EmployeeServices.csprojResolveAssemblyReference.cache
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\obj\Debug\AppServices.dll
+C:\Users\ruanR\documents\visual studio 2012\Projects\MVCReview\AppServices\obj\Debug\AppServices.pdb

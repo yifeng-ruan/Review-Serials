@@ -1,0 +1,24 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/css")
+</head>
+<body>
+<div id="header">
+
+</div>
+<div>
+    @RenderBody()
+</div>
+<div id="footer">
+
+</div>
+    @RenderSection("MySection",required:false)
+    @Scripts.Render("~/bundles/appcorelibs")
+    @Scripts.Render("~/bundles/appscripts")
+
+</body>
+</html>
